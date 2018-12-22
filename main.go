@@ -5,6 +5,7 @@ import (
 
 	"github.com/BREAKTEAM/kurodo/libs/client"
 	"github.com/BREAKTEAM/kurodo/libs/opts"
+	"github.com/BREAKTEAM/kurodo/output"
 )
 
 func main() {
