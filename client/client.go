@@ -14,8 +14,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/BREAKTEAM/kurodo/libs/opts"
-	"github.com/BREAKTEAM/kurodo/libs/utils"
+	"github.com/BREAKTEAM/kurodo/opts"
+	"github.com/BREAKTEAM/kurodo/utils"
 )
 
 type ResultChannels struct {
