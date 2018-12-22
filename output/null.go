@@ -1,6 +1,6 @@
 package output
 
-import "github.com/aishee/kurodo/libs/client"
+import "github.com/BREAKTEAM/kurodo/client"
 
 type null struct{}
 

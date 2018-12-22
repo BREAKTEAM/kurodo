@@ -4,7 +4,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/aishee/kurodo/libs/client"
+	"github.com/BREAKTEAM/kurodo/client"
 )
 
 var cli Writer

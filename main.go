@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"github.com/BREAKTEAM/kurodo/libs/client"
-	"github.com/BREAKTEAM/kurodo/libs/opts"
+	"github.com/BREAKTEAM/kurodo/client"
+	"github.com/BREAKTEAM/kurodo/opts"
 	"github.com/BREAKTEAM/kurodo/output"
 )
 

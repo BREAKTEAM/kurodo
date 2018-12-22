@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/aishee/kurodo/libs/utils"
+	"github.com/BREAKTEAM/kurodo/utils"
 )
 
 type Opts struct {

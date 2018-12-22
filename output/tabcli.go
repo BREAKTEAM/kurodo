@@ -5,7 +5,7 @@ import (
 	"os"
 	"text/tabwriter"
 
-	"github.com/aishee/kurodo/libs/client"
+	"github.com/BREAKTEAM/kurodo/client"
 )
 
 type tabCli struct{}

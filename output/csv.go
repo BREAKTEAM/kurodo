@@ -3,7 +3,7 @@ package output
 import (
 	"fmt"
 
-	"github.com/aishee/kurodo/libs/client"
+	"github.com/BREAKTEAM/kurodo/client"
 )
 
 type csv struct{}

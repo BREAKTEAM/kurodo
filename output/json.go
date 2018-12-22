@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/aishee/kurodo/libs/client"
+	"github.com/BREAKTEAM/kurodo/client"
 )
 
 type json struct{}
